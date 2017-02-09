@@ -7,6 +7,12 @@ The following are samples of using React and React-Native to show basic function
 3. [Increment with Redux](increment)
 4. [Hello World React-Native](helloworldrn)
 
+Note that the current version of 0.42.0 has an issue which needs a workaround such as the following:
+
+```
+react-native windows --windowsVersion 0.41.0-rc.0
+```
+
 # LICENSE
 
 MIT License
